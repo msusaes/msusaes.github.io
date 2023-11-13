@@ -2221,7 +2221,7 @@ iframe {
 	#header {
 		position: relative;
 		margin: 0;
-		background-image: url("images/overlay.png"), url("../../images/colloSAES.png");
+		background-image: url("images/overlay.png"), url("../../images/colloSAES.jpeg");
 		background-size: auto, cover;
 		background-position: top left, center;
 		background-repeat: repeat, no-repeat;
